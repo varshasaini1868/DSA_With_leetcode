@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-valid-mountain-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0941-valid-mountain-array) |
 | [1122-relative-sort-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1122-relative-sort-array) |
 | [1470-shuffle-the-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1470-shuffle-the-array) |
+| [1720-decode-xored-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1720-decode-xored-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [3379-transformed-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/3379-transformed-array) |
 ## Hash Table
@@ -59,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3379-transformed-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/3379-transformed-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1720-decode-xored-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1720-decode-xored-array) |
 <!---LeetCode Topics End-->
