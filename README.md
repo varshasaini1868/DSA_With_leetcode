@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0561-array-partition) |
 | [0896-monotonic-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0896-monotonic-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/2248-intersection-of-multiple-arrays) |
+| [3379-transformed-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/3379-transformed-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0561-array-partition) |
+## Simulation
+|  |
+| ------- |
+| [3379-transformed-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/3379-transformed-array) |
 <!---LeetCode Topics End-->
