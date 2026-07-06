@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3046-split-the-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/3046-split-the-array) |
 | [3151-special-array-i](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/3151-special-array-i) |
 | [3379-transformed-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/3379-transformed-array) |
+| [3637-trionic-array-i](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/3637-trionic-array-i) |
 ## Hash Table
 |  |
 | ------- |
