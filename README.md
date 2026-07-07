@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0088-merge-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0905-sort-array-by-parity](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0905-sort-array-by-parity) |
