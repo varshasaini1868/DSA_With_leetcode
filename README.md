@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0014-longest-common-prefix) |
+| [0066-plus-one](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0066-plus-one) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0561-array-partition](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0561-array-partition) |
 | [0896-monotonic-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0896-monotonic-array) |
@@ -74,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1720-decode-xored-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1720-decode-xored-array) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
