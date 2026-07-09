@@ -5,7 +5,7 @@ class Solution {
         for (int i = 0; i < nums1.length; i++) {
             int index = -1;
 
-            // nums2 me element find karo
+           
             for (int j = 0; j < nums2.length; j++) {
                 if (nums2[j] == nums1[i]) {
                     index = j;
@@ -13,7 +13,7 @@ class Solution {
                 }
             }
 
-            // right side me next greater element find karo
+            
             ans[i] = -1;
             for (int j = index + 1; j < nums2.length; j++) {
                 if (nums2[j] > nums1[i]) {
