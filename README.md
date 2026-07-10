@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0500-keyboard-row) |
 | [0561-array-partition](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0566-reshape-the-matrix) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0896-monotonic-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0941-valid-mountain-array) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0500-keyboard-row) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1122-relative-sort-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1122-relative-sort-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [3046-split-the-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/3046-split-the-array) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0014-longest-common-prefix) |
 | [0500-keyboard-row](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0500-keyboard-row) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Trie
 |  |
 | ------- |
