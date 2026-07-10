@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0645-set-mismatch) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0704-binary-search](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0704-binary-search) |
 | [0896-monotonic-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0941-valid-mountain-array) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0704-binary-search](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0704-binary-search) |
 ## Greedy
 |  |
 | ------- |
