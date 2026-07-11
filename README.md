@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0704-binary-search](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0704-binary-search) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0724-find-pivot-index](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0724-find-pivot-index) |
 | [0896-monotonic-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0941-valid-mountain-array) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0724-find-pivot-index) |
 ## Stack
 |  |
 | ------- |
