@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0812-largest-triangle-area](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0812-largest-triangle-area) |
+| [0821-shortest-distance-to-a-character](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0896-monotonic-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0941-valid-mountain-array) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0804-unique-morse-code-words](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0806-number-of-lines-to-write-string) |
+| [0821-shortest-distance-to-a-character](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0821-shortest-distance-to-a-character) |
 ## Trie
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0455-assign-cookies) |
+| [0821-shortest-distance-to-a-character](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0905-sort-array-by-parity](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0905-sort-array-by-parity) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Binary Search
