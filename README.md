@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-number-of-lines-to-write-string](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0812-largest-triangle-area](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0812-largest-triangle-area) |
 | [0821-shortest-distance-to-a-character](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0821-shortest-distance-to-a-character) |
+| [0832-flipping-an-image](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0832-flipping-an-image) |
 | [0896-monotonic-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0941-valid-mountain-array) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0455-assign-cookies) |
 | [0821-shortest-distance-to-a-character](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0821-shortest-distance-to-a-character) |
+| [0832-flipping-an-image](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0905-sort-array-by-parity) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Binary Search
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0566-reshape-the-matrix) |
+| [0832-flipping-an-image](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0832-flipping-an-image) |
 | [1929-concatenation-of-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1929-concatenation-of-array) |
 | [3379-transformed-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/3379-transformed-array) |
 ## Bit Manipulation
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0645-set-mismatch) |
+| [0832-flipping-an-image](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0832-flipping-an-image) |
 | [1720-decode-xored-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1720-decode-xored-array) |
 ## Math
 |  |
@@ -217,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0566-reshape-the-matrix) |
+| [0832-flipping-an-image](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0832-flipping-an-image) |
 ## Enumeration
 |  |
 | ------- |
