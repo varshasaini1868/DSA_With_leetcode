@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-intersection-of-multiple-arrays](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [3046-split-the-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/3046-split-the-array) |
 | [3151-special-array-i](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/3151-special-array-i) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3379-transformed-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/3379-transformed-array) |
 | [3637-trionic-array-i](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/3637-trionic-array-i) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0812-largest-triangle-area](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0812-largest-triangle-area) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0746-min-cost-climbing-stairs](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Sliding Window
 |  |
 | ------- |
@@ -248,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0812-largest-triangle-area) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
