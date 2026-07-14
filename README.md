@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-valid-mountain-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0941-valid-mountain-array) |
 | [0942-di-string-match](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0944-delete-columns-to-make-sorted) |
+| [0953-verifying-an-alien-dictionary](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [1122-relative-sort-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1470-shuffle-the-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1470-shuffle-the-array) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0645-set-mismatch) |
 | [0804-unique-morse-code-words](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0804-unique-morse-code-words) |
 | [0888-fair-candy-swap](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0888-fair-candy-swap) |
+| [0953-verifying-an-alien-dictionary](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [1122-relative-sort-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/2248-intersection-of-multiple-arrays) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0942-di-string-match](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0944-delete-columns-to-make-sorted) |
+| [0953-verifying-an-alien-dictionary](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 ## Trie
 |  |
 | ------- |
