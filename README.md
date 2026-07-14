@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0941-valid-mountain-array) |
+| [0942-di-string-match](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0942-di-string-match) |
 | [1122-relative-sort-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1470-shuffle-the-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1470-shuffle-the-array) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0821-shortest-distance-to-a-character) |
+| [0942-di-string-match](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0942-di-string-match) |
 ## Trie
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0905-sort-array-by-parity) |
+| [0942-di-string-match](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0942-di-string-match) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Binary Search
 |  |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0860-lemonade-change) |
+| [0942-di-string-match](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0942-di-string-match) |
 ## Counting Sort
 |  |
 | ------- |
