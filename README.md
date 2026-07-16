@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [0997-find-the-town-judge](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0997-find-the-town-judge) |
 | [0999-available-captures-for-rook](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0999-available-captures-for-rook) |
+| [1002-find-common-characters](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1002-find-common-characters) |
 | [1122-relative-sort-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1470-shuffle-the-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1470-shuffle-the-array) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-verifying-an-alien-dictionary](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0997-find-the-town-judge](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0997-find-the-town-judge) |
+| [1002-find-common-characters](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1002-find-common-characters) |
 | [1122-relative-sort-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/2248-intersection-of-multiple-arrays) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0953-verifying-an-alien-dictionary](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0953-verifying-an-alien-dictionary) |
+| [1002-find-common-characters](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1002-find-common-characters) |
 ## Trie
 |  |
 | ------- |
