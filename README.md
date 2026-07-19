@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0953-verifying-an-alien-dictionary](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [1002-find-common-characters](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1002-find-common-characters) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Trie
 |  |
 | ------- |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Counting Sort
 |  |
 | ------- |
@@ -267,10 +269,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0496-next-greater-element-i) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0496-next-greater-element-i) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Matrix
 |  |
 | ------- |
