@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1002-find-common-characters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Trie
 |  |
 | ------- |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Geometry
 |  |
 | ------- |
