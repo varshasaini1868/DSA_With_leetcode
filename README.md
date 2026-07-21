@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0067-add-binary) |
 | [0500-keyboard-row](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0804-unique-morse-code-words](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0804-unique-morse-code-words) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0067-add-binary) |
 | [0566-reshape-the-matrix](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0867-transpose-matrix) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0645-set-mismatch) |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0812-largest-triangle-area](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0812-largest-triangle-area) |
