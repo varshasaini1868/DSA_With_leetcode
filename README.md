@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0500-keyboard-row) |
+| [0506-relative-ranks](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0566-reshape-the-matrix) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0645-set-mismatch) |
@@ -353,4 +355,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
