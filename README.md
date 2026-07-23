@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0500-keyboard-row) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0561-array-partition) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0389-find-the-difference) |
 | [0500-keyboard-row](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0804-unique-morse-code-words](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0804-unique-morse-code-words) |
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0832-flipping-an-image) |
 | [1720-decode-xored-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1720-decode-xored-array) |
