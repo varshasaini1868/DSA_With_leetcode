@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0645-set-mismatch) |
 | [0804-unique-morse-code-words](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0804-unique-morse-code-words) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0645-set-mismatch) |
 | [0888-fair-candy-swap](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0888-fair-candy-swap) |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0169-majority-element) |
+| [0594-longest-harmonious-subsequence](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [2248-intersection-of-multiple-arrays](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [3046-split-the-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/3046-split-the-array) |
@@ -312,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Design
 |  |
