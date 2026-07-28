@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0566-reshape-the-matrix) |
+| [0575-distribute-candies](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0500-keyboard-row) |
+| [0575-distribute-candies](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0645-set-mismatch) |
 | [0804-unique-morse-code-words](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0804-unique-morse-code-words) |
