@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0812-largest-triangle-area](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0812-largest-triangle-area) |
+| [0819-most-common-word](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0832-flipping-an-image) |
 | [0860-lemonade-change](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0860-lemonade-change) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0697-degree-of-an-array) |
 | [0804-unique-morse-code-words](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0804-unique-morse-code-words) |
+| [0819-most-common-word](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0819-most-common-word) |
 | [0888-fair-candy-swap](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0888-fair-candy-swap) |
 | [0953-verifying-an-alien-dictionary](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0169-majority-element) |
 | [0594-longest-harmonious-subsequence](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0819-most-common-word](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0819-most-common-word) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [2248-intersection-of-multiple-arrays](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [3046-split-the-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/3046-split-the-array) |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0804-unique-morse-code-words](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0806-number-of-lines-to-write-string) |
+| [0819-most-common-word](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0942-di-string-match](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0944-delete-columns-to-make-sorted) |
