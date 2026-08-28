@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1313-decompress-run-length-encoded-list](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1313-decompress-run-length-encoded-list) |
 | [1331-rank-transform-of-an-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1406-stone-game-iii](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1470-shuffle-the-array) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0888-fair-candy-swap](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0888-fair-candy-swap) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Greedy
 |  |
@@ -381,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0867-transpose-matrix) |
 | [0999-available-captures-for-rook](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0999-available-captures-for-rook) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Enumeration
 |  |
 | ------- |
@@ -414,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0506-relative-ranks) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Combinatorics
 |  |
