@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1406-stone-game-iii](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1470-shuffle-the-array) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Binary Search
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Greedy
 |  |
