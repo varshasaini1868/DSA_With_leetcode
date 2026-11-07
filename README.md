@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1470-shuffle-the-array) |
 | [1720-decode-xored-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1720-decode-xored-array) |
+| [1882-process-tasks-using-servers](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1882-process-tasks-using-servers) |
 | [1929-concatenation-of-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/2248-intersection-of-multiple-arrays) |
@@ -472,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0506-relative-ranks) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1882-process-tasks-using-servers](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1882-process-tasks-using-servers) |
 ## Combinatorics
 |  |
 | ------- |
