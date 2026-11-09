@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1406-stone-game-iii](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1470-shuffle-the-array) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2747-count-zero-request-servers](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/2747-count-zero-request-servers) |
 | [3046-split-the-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/3046-split-the-array) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [3046-split-the-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/3046-split-the-array) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
