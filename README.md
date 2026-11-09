@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0705-design-hashset) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0697-degree-of-an-array) |
+| [0705-design-hashset](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0705-design-hashset) |
 | [0804-unique-morse-code-words](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0819-most-common-word) |
 | [0888-fair-candy-swap](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0888-fair-candy-swap) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0705-design-hashset](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0705-design-hashset) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -514,4 +517,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Linked List
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
