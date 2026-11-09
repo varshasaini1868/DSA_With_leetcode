@@ -11,7 +11,7 @@ class Solution {
 
         for (int i = 0; i < m; i++) {
 
-            // Find minimum element in current row
+            
             int min = matrix[i][0];
             int col = 0;
 
@@ -22,7 +22,7 @@ class Solution {
                 }
             }
 
-            // Check whether it is maximum in its column
+           
             boolean flag = true;
 
             for (int k = 0; k < m; k++) {
