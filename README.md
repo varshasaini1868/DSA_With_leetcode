@@ -321,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Counting Sort
 |  |
 | ------- |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
 |  |
