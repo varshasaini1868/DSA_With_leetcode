@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1406-stone-game-iii](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1406-stone-game-iii) |
 | [1408-string-matching-in-an-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1408-string-matching-in-an-array) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1470-shuffle-the-array) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
