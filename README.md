@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-intersection-of-multiple-arrays](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2747-count-zero-request-servers](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/2747-count-zero-request-servers) |
 | [3046-split-the-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/3046-split-the-array) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3151-special-array-i](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/3151-special-array-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3379-transformed-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/3379-transformed-array) |
