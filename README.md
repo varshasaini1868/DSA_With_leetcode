@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1436-destination-city) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1470-shuffle-the-array) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1436-destination-city](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1436-destination-city) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2747-count-zero-request-servers](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/2747-count-zero-request-servers) |
 | [3046-split-the-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/3046-split-the-array) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2747-count-zero-request-servers](https://github.com/varshasaini1868/DSA_With_leetcode/tree/master/2747-count-zero-request-servers) |
